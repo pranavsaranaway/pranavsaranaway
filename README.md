@@ -1,4 +1,4 @@
-## Hi!, I'm Pranav!
+## Hi, I'm Pranav!
 
 <!--
 **OrangeLmao/OrangeLmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
