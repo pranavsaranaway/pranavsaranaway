@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!, I'm Pranav
 
 <!--
 **OrangeLmao/OrangeLmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**`Digital Craftsman (Developer/Engineer/Researcher)`**
+
+I'm a freshman majoring in Computer Science at Case Western Reserve University. This is where I store most of my code from personal projects and school work. I love to create projects and explore the digital world. I love to connect Computer Science to other fields of study.
+
+### Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+          
+        
