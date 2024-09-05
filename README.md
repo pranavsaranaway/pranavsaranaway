@@ -33,7 +33,7 @@ I'm a freshman majoring in Computer Science at Case Western Reserve University. 
 ## About Me!
 🔭 I’m currently working on arudino projects that help bridge the gap between bio and cs<br/>
 
-🌱 I’m currently learning more about neural networks and machine learning!<br/>
+🌱 I’m currently learning more about what it means to be an engineer!<br/>
 
 📫 How to reach me: pranavsaranreal@gmail.com<br/>
 
