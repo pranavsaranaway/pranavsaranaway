@@ -1,7 +1,7 @@
 # Hello World!, I'm Pranav
 
 # 💫 About Me:
-🔭 I’m currently working on arudino projects that help bridge the gap between HealthCare and Software Engineering as well as Applied ML and LLM Research!<br>🌱 I’m currently learning more about what researching and LLMS!<br>📫 How to reach me: pranav.saran@case.edu
+🔭 I’m currently working on arudino projects that help bridge the gap between HealthCare and Software Engineering as well as Applied ML and LLM Research!<br>🌱 I’m currently learning more about researching and LLMS!<br>📫 How to reach me: pranav.saran@case.edu
 
 
 ## 🌐 Socials:
