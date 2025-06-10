@@ -66,11 +66,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavsaranaway&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FlYXAzdG5wdmV1Nm1tM2ZtMzJlYXY5MGNjM2E3dTV5eGk4ZW4zOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dxn6fRlTIShoeBr69N/giphy.gif" width="200" alt="Funny Coding GIF">
 </div>
 
-###
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FlYXAzdG5wdmV1Nm1tM2ZtMzJlYXY5MGNjM2E3dTV5eGk4ZW4zOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dxn6fRlTIShoeBr69N/giphy.gif" width="400" alt="Funny Coding GIF">
-</p>
+
 
 
