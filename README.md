@@ -14,6 +14,9 @@
   <a href="https://www.instagram.com/pranavv.saran/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <a href="https://scholar.google.com/citations?user=nLYpumIAAAAJ&hl=en&authuser=1" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?logo=google-scholar&logoColor=white" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
