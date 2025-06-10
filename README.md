@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm a CSE student at Case Western Reserve!<br><br>- 🔭 I’m working as an intern for MntrMe!<br>- 📚 I'm currently learning more about NLP and AI Agents<br>- ⚡ In my free time I play badminton and boulder!</p>
+<p align="left">I'm a CSE student at Case Western Reserve!<br><br>- 🔭 I’m working as an intern for MntrMe!<br>- 📚 I'm currently learning more about NLP and AI Agents<br>- ⚡ In my free time I play badminton and boulder!<br>- 📫 How to reach me: pranav.saran@case.edu</p>
 
 ###
 
@@ -73,4 +73,4 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FlYXAzdG5wdmV1Nm1tM2ZtMzJlYXY5MGNjM2E3dTV5eGk4ZW4zOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dxn6fRlTIShoeBr69N/giphy.gif" width="400" alt="Funny Coding GIF">
 </p>
 
-📫 How to reach me: pranav.saran@case.edu
+
